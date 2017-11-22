@@ -1,0 +1,15 @@
+H:\university\Magistracy\I course\methodology of software engineering (Помян)\common shit\CShit\Service\bin\Debug\Service.dll.config
+H:\university\Magistracy\I course\methodology of software engineering (Помян)\common shit\CShit\Service\bin\Debug\Service.dll
+H:\university\Magistracy\I course\methodology of software engineering (Помян)\common shit\CShit\Service\bin\Debug\Service.pdb
+H:\university\Magistracy\I course\methodology of software engineering (Помян)\common shit\CShit\Service\bin\Debug\EntityFramework.dll
+H:\university\Magistracy\I course\methodology of software engineering (Помян)\common shit\CShit\Service\bin\Debug\EntityFramework.SqlServer.dll
+H:\university\Magistracy\I course\methodology of software engineering (Помян)\common shit\CShit\Service\bin\Debug\IService.dll
+H:\university\Magistracy\I course\methodology of software engineering (Помян)\common shit\CShit\Service\bin\Debug\IService.pdb
+H:\university\Magistracy\I course\methodology of software engineering (Помян)\common shit\CShit\Service\bin\Debug\EntityFramework.xml
+H:\university\Magistracy\I course\methodology of software engineering (Помян)\common shit\CShit\Service\bin\Debug\EntityFramework.SqlServer.xml
+H:\university\Magistracy\I course\methodology of software engineering (Помян)\common shit\CShit\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+H:\university\Magistracy\I course\methodology of software engineering (Помян)\common shit\CShit\Service\obj\Debug\Service.dll
+H:\university\Magistracy\I course\methodology of software engineering (Помян)\common shit\CShit\Service\obj\Debug\Service.pdb
+H:\university\Magistracy\I course\methodology of software engineering (Помян)\common shit\CShit\Service\bin\Debug\DAL.dll
+H:\university\Magistracy\I course\methodology of software engineering (Помян)\common shit\CShit\Service\bin\Debug\DAL.pdb
+H:\university\Magistracy\I course\methodology of software engineering (Помян)\common shit\CShit\Service\bin\Debug\DAL.dll.config

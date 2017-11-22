@@ -1,0 +1,5 @@
+H:\university\Magistracy\I course\methodology of software engineering (Помян)\common shit\CShit\IService\bin\Debug\IService.dll
+H:\university\Magistracy\I course\methodology of software engineering (Помян)\common shit\CShit\IService\bin\Debug\IService.pdb
+H:\university\Magistracy\I course\methodology of software engineering (Помян)\common shit\CShit\IService\obj\Debug\IService.csprojResolveAssemblyReference.cache
+H:\university\Magistracy\I course\methodology of software engineering (Помян)\common shit\CShit\IService\obj\Debug\IService.dll
+H:\university\Magistracy\I course\methodology of software engineering (Помян)\common shit\CShit\IService\obj\Debug\IService.pdb
